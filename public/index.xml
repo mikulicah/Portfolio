@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Apr 2024 18:21:01 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O mně</title>
+      <link>http://localhost:1313/posts/omne/</link>
+      <pubDate>Fri, 05 Apr 2024 18:21:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/omne/</guid>
+      <description>Honza Mikulica v letech 2017 - 2021 studoval na SŠUM v oboru multimédia na ateliéru fotografie pod vedením PhDr. BcA. Dariny Hlinkové, Ph.D., kde se setkal i s předměty grafika, animace, kresba a malba. Převážně se za doby studia zabýval inscenovanou fotografií, kterými vyobrazoval svět fantasie.&#xA;Od roku 2021 Mikulica studuje na FaVU v oboru intermédia na Ateliér tělového designu pod vedením prof. Mgr. A. Lenka Klodová Ph.D. a MgA. Karolina Raimund.</description>
+    </item>
+    <item>
+      <title>A.I.art</title>
+      <link>http://localhost:1313/posts/aiart/</link>
+      <pubDate>Fri, 05 Apr 2024 18:20:34 +0200</pubDate>
+      <guid>http://localhost:1313/posts/aiart/</guid>
+      <description>Ragnarök 2022 Projekt Ragnarök vyobrazuje scény z příběhu Ragnarök: konečný osud bohů, které jsou zpracovány za pomocí A.I. (Umělé inteligence) v programu MidJourney. Cílem bylo prozkoumat vizuál děl ze severské mytologie, které se do dnešní doby nedochovaly, nebo dokonce ani neexistovaly. To mohlo být způsobeno životním stylem Seveřanů, kteří byli nájezdníci a okupovali nová místa. První obrazové zmínky se objevují až v 19.století, čemuž můžeme vděčit tomu, že se příběhy přeložily ze staré norštiny do angličtiny, a tak pro umělce bylo možné příběhy zpracovat.</description>
+    </item>
+    <item>
+      <title>Volné umění</title>
+      <link>http://localhost:1313/posts/volneumeni/</link>
+      <pubDate>Fri, 05 Apr 2024 18:20:18 +0200</pubDate>
+      <guid>http://localhost:1313/posts/volneumeni/</guid>
+      <description>Esence pravé vyrovnanosti 2024 ESENCE PRAVÉ VYROVNANOSTI je dílo adaptující příběh z Taoismu, o tom jak císař hledal pravou vyrovnanost. Stejně tak to měl i autor díla, který se nedokázal v jistou chvíli řádně soustředit na svou práci, a tak zpracoval obrazy z příběhu dle své volné interpretace. Pro autora je tento projekt osobní záležitostí a silně věří, že toto dílo mu pomůže najít klid, vyrovnanost a koncentraci při dalším tvoření.</description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/posts/performance/</link>
+      <pubDate>Fri, 05 Apr 2024 18:19:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/performance/</guid>
+      <description>POHLED Z OKRAJE PASTINY (SYMPOZIUM) 2022 Performance byla součástí programu mezinárodního sympósia A view from the edge of a pasture, který organizovala Edith Jeřábkova a Denisa Langrová. Symposium je části jednoletého programu nazvaný A plant spadající pod Kunsthalle Bratislava, který organizuje Lydia Přibišová. Workshopy jsou součásti projektu Art Connected 2022 – 2023 iniciované společností tranzit.sk.&#xA;Tento projekt byl kolektivně iniciovaný Ateliérem Tělového Designu z Fakulty výtvarných umění v Brně. Performance byla založena na myšlence pohybu ovcí a pastýřů, kvůli obnově půdy a trávy.</description>
+    </item>
+    <item>
+      <title>Tiskové techniky</title>
+      <link>http://localhost:1313/posts/tiskov%C3%A9-techniky/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/tiskov%C3%A9-techniky/</guid>
+      <description>Dotek přírody - tisk z hloubky 2023 Portál do neznáma - akvatinta 2023 Děvínské UFO - suchá jehla 2023 Spooky season - litografie 2023 Můj tábor, můj život - slepotisk, linoryt a dřevoryt 2022 Flora - sítotisk 2022 Monotyp M&amp;amp;M - sítotisk 2022 Emoji - sítotisk 2022 DO IT FOR YOURSELF - sítotisk2021 Kytice - sítotisk 2021 Polaroid - linoryt a sítotisk 2020-2021 Sada razítek - linoryt 2019 Sardinky - linoryt 2019 </description>
+    </item>
+    <item>
+      <title>Animace</title>
+      <link>http://localhost:1313/posts/animace/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/animace/</guid>
+      <description>Retro animace 2019 Návod na sebevražedného robota 2019 Autoportrét 2018 Mulholland drive 2018 Hledá se Nemo 2017 </description>
+    </item>
+    <item>
+      <title>Fotografie</title>
+      <link>http://localhost:1313/posts/fotografie/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/fotografie/</guid>
+      <description>Kytice 2021 Fotokniha s inscenovanými fotografiemi zaměřenými na pohádky, vznikla jako maturitní práce. Kniha obsahuje fotografické zpracování balad z knihy Kytice od Karla Jaromíra Erbena. Každá série se nese v duchu balady, kdy si udržují jednotný vizuál a koncept.&#xA;Text k maturitní práci Text k maturitní práci&#xA;Blechy 2020 Můžete jet tolikrát tou stejnou šalinou a říkat si, že už jí nikdy nepojedete znovu. Můžete se tolikrát smát, lhát, plakat, milovat, umírat a myslet si, že takhle jste se cítili poprvé a naposledy.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = ''
+themes = 'mikulicah'
+
+[menus]
+[[menus.main]]
+    name = 'Úvod'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'Fotografie'
+    pageRef = '/Fotografie'
+    weight = 20
+[[menus.main]]
+    name = 'Animace'
+    pageRef = '/Animace'
+    weight = 30
+[[menus.main]]
+    name = 'Tiskové techniky'
+    pageRef = '/Tiskové techniky'
+    weight = 40
+[[menus.main]]
+    name = 'Performance'
+    pageRef = '/Performance'
+    weight = 50
+[[menus.main]]
+    name = 'Volné umění'
+    pageRef = '/Volneumeni'
+    weight = 60
+[[menus.main]]
+    name = 'A.I. Art'
+    pageRef = '/AIart'
+    weight = 70
+[[menus.main]]
+    name = 'O mně'
+    pageRef = '/Omne'
+    weight = 80
+
+
+
+
+  
